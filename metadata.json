@@ -1,0 +1,5 @@
+{
+  "name": "ScanGenius PDF AI",
+  "description": "Advanced PDF OCR and Analysis tool supporting Arabic, French, and English with image extraction and AI summarization.",
+  "requestFramePermissions": []
+}
